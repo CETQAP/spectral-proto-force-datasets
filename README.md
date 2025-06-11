@@ -19,7 +19,7 @@ This repository contains datasets and analysis scripts supporting the research a
 
 ## Data Access
 - Small files (<100 MB) are hosted directly on GitHub.
-- Large raw collider data (~500 GB) is hosted on Open Science Framework: [https://osf.io/spectralprotoforce2025/collider/raw_collision_events_13.6TeV.h5].
+- Large raw collider data (~500 GB) is hosted on Open Science Framework
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/[username]/spectral-proto-force-datasets.git`
