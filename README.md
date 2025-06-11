@@ -28,7 +28,7 @@ This repository contains datasets and analysis scripts supporting the research a
 4. Access raw collider data via the OSF link for full event analysis.
 
 ## Citation
-Ahmed, Z. (2025). Spectral Proto-Force Theory: Experimental Evidence for a Novel Fundamental Interaction, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-XXXXX/v1].
+Ahmed, Z. (2025). Spectral Proto-Force Theory: Experimental Evidence for a Novel Fundamental Interaction, PREPRINT (Version 1) available at Research Square
 
 ## Contact
 Zuhair Ahmed, drzuhairahmed@thecetqap.com
